@@ -264,24 +264,7 @@ database/inserts.sql
 
 ---
 
-# 📸 Modelo relacional
 
-## 🖥️ Diagrama entidad-relación
-
-<div align="center">
-
-### 🚗 Relación de entidades
-![ERD](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop)
-
-### 🗄️ Arquitectura de base de datos
-![Database](https://images.unsplash.com/photo-1544383835-bda2bc66a55d?q=80&w=1200&auto=format&fit=crop)
-
-### 📊 Gestión relacional
-![SQL](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop)
-
-</div>
-
----
 
 # 🧠 Objetivos del proyecto
 
