@@ -197,31 +197,7 @@ Tabla encargada de administrar usuarios del sistema.
 
 ---
 
-# 📂 Estructura del proyecto
 
-```bash
-CarRentalDatabase/
-│
-├── database/
-│   ├── schema.sql            # Estructura principal
-│   ├── tables.sql            # Creación de tablas
-│   ├── inserts.sql           # Datos de prueba
-│   ├── procedures.sql        # Procedimientos almacenados
-│   └── triggers.sql          # Triggers y automatización
-│
-├── diagrams/
-│   ├── erd.png               # Diagrama entidad-relación
-│   └── relational-model.png
-│
-├── docs/
-│   ├── normalization.md
-│   └── documentation.md
-│
-├── README.md
-└── LICENSE
-```
-
----
 
 # ⚡ Instalación
 
@@ -239,7 +215,7 @@ CarRentalDatabase/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/CarRentalDatabase.git
+git clone https://github.com/isairey/DB-SisRentaAutos.git
 ```
 
 ---
